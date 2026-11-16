@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+smtp_config.json
+sent_history.json
+*.log
+.env
+venv/
+.venv/
